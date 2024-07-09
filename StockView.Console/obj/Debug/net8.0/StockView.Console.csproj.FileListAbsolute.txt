@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\StockView.Console.exe
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\StockView.Console.deps.json
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\StockView.Console.runtimeconfig.json
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\StockView.Console.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\StockView.Console.pdb
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\refint\StockView.Console.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.pdb
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\ref\StockView.Console.dll
