@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DP1aRVEnDelvRPj52R9WXvYdvHDH2qriJzyUEphgMcVt7UiVDF08lfaj+WNDdnOD7C9oDB2pT6K4fPH1zFzufQ==",
+  "dgSpecHash": "wZgtisUzVzRqYaO6FHkmr0TtmEpWyvSBXDJzcB/XjySzbD/+xc/E68pj67cySwad+G2+JZCYdFEK9r7li30e1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rodrigo\\Documents\\Projetos\\StockView\\StockView.Console\\StockView.Console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
   "logs": []
 }

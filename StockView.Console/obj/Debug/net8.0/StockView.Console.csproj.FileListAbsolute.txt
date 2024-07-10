@@ -12,3 +12,14 @@ C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0
 C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.pdb
 C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.genruntimeconfig.cache
 C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\ref\StockView.Console.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.sourcelink.json
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\obj\Debug\net8.0\StockView.Console.csproj.CopyComplete
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Rodrigo\Documents\Projetos\StockView\StockView.Console\bin\Debug\net8.0\WebDriver.dll
